@@ -9,26 +9,18 @@ Seja bem-vindo(a) ao meu GitHub!
 
 ## 🛠️ Tecnologias
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E40C9?style=for-the-badge&logo=vitest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell_Script-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=black)
-![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=for-the-badge&logo=rollup-dot-js&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,nodejs,ts,nextjs,react" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,redux,tailwind,vercel,dynamodb,nestjs,vite,prisma,postgres,mongodb,vitest,jest,npm,vscode,git,github,rollupjs,babel,docker,linux,debian,nginx,bash" />
+  </a>
+</p>
+
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![AWS DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
@@ -38,10 +30,10 @@ Seja bem-vindo(a) ao meu GitHub!
 
 ## 🧰 Habilidades Adicionais
 
-- **Desenvolvimento Backend:** Express.js, Astro, CodeIgniter
+- **Desenvolvimento Backend:** Express.js, Astro, CodeIgniter, Laravel
 - **Servidores Linux:** Debian, Shell, Bash, SSH, SSL, PM2
 - **Bancos de Dados:** DynamoDB, SQLite, MongoDB, Elastic Search
-- **DevOps e Infraestrutura:** Git/GitHub, Vercel, Linode (Akamai), Digital Ocean, Heroku
+- **DevOps e Infraestrutura:** Git/GitHub, Vercel, Linode (Akamai), Digital Ocean
 - **Algoritmos e Patterns:** ETL (JSON, XML, YAML), AST (árvore sintática abstrata), AVP (Attribute-Value Pair), Sistema de Atributos, Programação funcional, SDK (API), RegExp, cálculos financeiros, matemáticos e geográficos, POO
 - **Frontend:** Tailwind CSS, SASS, Bootstrap, Vue.js, Angular
 - **Ferramentas de Desenvolvimento:** VSCode, Vite, Rollup, Webpack, Babel, ESLint, Prettier, Jest, Vitest, NPM
