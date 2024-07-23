@@ -7,9 +7,6 @@ Seja bem-vindo(a) ao meu GitHub!
 - 🚀 Proficiente em desenvolvimento fullstack, com forte capacidade de resolver problemas complexos e entregar soluções eficientes e escaláveis. Já trabalhei em diversas empresas sérias, contribuindo significativamente para o sucesso dos projetos.
 - 🌟 Aqui você vai encontrar alguns dos meus projetos e contribuições para a comunidade.
 
-
-## 🛠️ Tecnologias
-
 ## 🛠️ Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
