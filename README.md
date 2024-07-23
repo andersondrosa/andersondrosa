@@ -56,12 +56,14 @@ Seja bem-vindo(a) ao meu GitHub!
 ### [OMNI-AST](https://github.com/andersondrosa/omni-ast)
 Omni-AST é uma biblioteca que combina os recursos robustos de Abstract Syntax Trees (AST) com a flexibilidade do JSON, facilitando a manipulação, análise e transformação de código.
 ![GitHub stars](https://img.shields.io/github/stars/andersondrosa/omni-ast?style=social)
-![GitHub forks](https://img.shields.io/github/forks/andersondrosa/omni-ast?style=social)
 
 ### [REACT CONTEXT SELECTOR](https://github.com/andersondrosa/selector-provider)
 O Selector para React Context é um componente que adiciona funcionalidade de seleção ao React Context, semelhante ao Redux Selector. Ele isola partes específicas do estado, evitando re-renderizações desnecessárias e melhorando o desempenho. Utiliza memorização para otimização, oferece uma API intuitiva e é fácil de integrar com o Context nativo!
 ![GitHub stars](https://img.shields.io/github/stars/andersondrosa/selector-provider?style=social)
-![GitHub forks](https://img.shields.io/github/forks/andersondrosa/selector-provider?style=social)
+
+### [WATERMARK FIND RECT](https://github.com/andersondrosa/watermark-find-rect)
+O WaterMark Find Rect é uma função em TypeScript desenvolvida para calcular as coordenadas de um retângulo de marca d'água em uma imagem, permitindo a inserção precisa da marca d'água em diferentes posições e tamanhos. A função leva em consideração opções como gravidade, margem e tamanho para determinar a localização e dimensões ideais do retângulo de marca d'água.
+![GitHub stars](https://img.shields.io/github/stars/andersondrosa/watermark-find-rect?style=social)
 
 ## 📫 Entre em Contato
 
