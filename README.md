@@ -11,7 +11,7 @@ Seja bem-vindo(a) ao meu GitHub!
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,nodejs,ts,nextjs,react" />
+    <img src="https://skillicons.dev/icons?i=aws,nodejs,ts,nextjs,react,npm" />
   </a>
 </p>
 
@@ -30,14 +30,19 @@ Seja bem-vindo(a) ao meu GitHub!
 
 ## 🧰 Habilidades Adicionais
 
-- **Desenvolvimento Backend:** Express.js, Astro, CodeIgniter, Laravel
-- **Servidores Linux:** Debian, Shell, Bash, SSH, SSL, PM2
+- **Desenvolvimento Backend:** Express, Astro, CodeIgniter, Laravel
+- **Servidor Linux:** Debian, Shell Bash, SSH, SSL, PM2
 - **Bancos de Dados:** DynamoDB, SQLite, MongoDB, Elastic Search
-- **DevOps e Infraestrutura:** Git/GitHub, Vercel, Linode (Akamai), Digital Ocean
-- **Algoritmos e Patterns:** ETL (JSON, XML, YAML), AST (árvore sintática abstrata), AVP (Attribute-Value Pair), Sistema de Atributos, Programação funcional, SDK (API), RegExp, cálculos financeiros, matemáticos e geográficos, POO
+- **DevOps e Infraestrutura:** Git/GitHub, Vercel, Linode, Azure, Digital Ocean
 - **Frontend:** Tailwind CSS, SASS, Bootstrap, Vue.js, Angular
-- **Ferramentas de Desenvolvimento:** VSCode, Vite, Rollup, Webpack, Babel, ESLint, Prettier, Jest, Vitest, NPM
-- **Métodos e Práticas:** SOLID, TDD, DDD, MVC, CI/CD, Code Review
+- **Ferramentas de Desenvolvimento:** Vite, Rollup, Webpack, Babel, ESLint, Prettier, Jest, Vitest, NPM, VSCode, Insomnia
+- **Métodos e Práticas:** SOLID, TDD, DDD, MVC, Refactoring, Clean Code, Code Review
+
+## Startups e especialidades
+- **Publisher - Dashboard imobiliário e integrações:**
+- 10 anos, ETL (JSON, XML, YAML), AST (árvore sintática abstrata), JSON-SCHEMA, AVP (Attribute-Value Pair), Sistema de Atributos, Programação Funcional, Client SDK Development, RegExp (avançado)
+- **AlphaMaps - Mapa interativo (2007):**
+- 6 anos, forte em manipulação de DOM, cálculos matemáticos e geográficos
 
 ## 📂 Projetos
 
