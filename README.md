@@ -1,4 +1,4 @@
-# Olá, mundo! Meu nome é Anderson 👋
+# Anderson D. Rosa
 
 Seja bem-vindo(a) ao meu GitHub!
 
