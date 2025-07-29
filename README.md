@@ -34,9 +34,9 @@ Seja bem-vindo(a) ao meu GitHub!
 - **Servidor Linux:** Debian, Shell Bash, SSH, SSL, PM2
 - **Bancos de Dados:** DynamoDB, SQLite, MongoDB, Elastic Search
 - **DevOps e Infraestrutura:** Git/GitHub, Vercel, Linode, Azure, Digital Ocean
-- **Frontend:** Tailwind CSS, SASS, Bootstrap, Vue.js, Angular
+- **Frontend:** React.js, Tailwind CSS, SASS, Html5
 - **Ferramentas de Desenvolvimento:** Vite, Rollup, Webpack, Babel, ESLint, Prettier, Jest, Vitest, NPM, VSCode, Insomnia
-- **Métodos e Práticas:** SOLID, TDD, DDD, MVC, Refactoring, Clean Code, Code Review
+- **Métodos e Práticas:** SOLID, TDD, DDD, MVC, Refactoring, Clean Code
 
 ## Startups e especialidades
 - **Publisher - Dashboard imobiliário e integrações:**
